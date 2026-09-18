@@ -1,10 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32384498/README.md)
- 🔍 Smart Image Quality Analyzer
+Smart Image Quality Analyzer
 
 > **A command-line Computer Vision project for automatic image-quality assessment using OpenCV and NumPy.**
-
-[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](#-installation)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)](#-technologies)
 
 
 ---
